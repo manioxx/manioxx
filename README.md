@@ -25,6 +25,12 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/console.png" alt="Batch Scripting" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -56,6 +62,9 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   </a>
   <a href="https://www.cybersecurity-insiders.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" alt="Cyber Security" width="40" height="40"/>
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40"/>
   </a>
 </p>
 
