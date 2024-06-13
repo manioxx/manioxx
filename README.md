@@ -31,6 +31,12 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -54,17 +60,32 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ## 🌐 Networking and Security
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" width="40" height="40"/>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
-  <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-ethical-hacking-computer-science-flaticons-lineal-color-flat-icons-3.png" alt="Ethical Hacking" width="40" height="40"/>
+  <a href="https://ngrok.com/" target="_blank" rel="noreferrer">
+    <img src="https://ngrok.com/static/img/brand/ngrok-logo-light.png" alt="Ngrok" width="80" height="40"/>
   </a>
-  <a href="https://www.cybersecurity-insiders.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/cyber-security.png" alt="Cyber Security" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/Man-in-the-middle_attack" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/man-in-the-middle.png" alt="Man-in-the-Middle Attack" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Phishing" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/phishing.png" alt="Phishing" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/wireless-router.png" alt="Evil Twin" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/tools/hydra/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/brute-force.png" alt="Brute Force" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Computer_hardware" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/hardware.png" alt="Hardware" width="40" height="40"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/DNS_spoofing" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/dns.png" alt="DNS Spoofing" width="40" height="40"/>
   </a>
 </p>
 
@@ -87,3 +108,4 @@ Feel free to reach out if you want to collaborate on projects or just want to ch
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+s
