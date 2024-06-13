@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm MR. MANIOX! 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, programming, and cybersecurity. Here are some of the skills and areas I'm proficient in:
+Welcome to my GitHub profile! I'm passionate about exploring and doing stuffs involved with technology, programming, and cybersecurity. Here are some of the skills and areas I'm proficient in:
 
 ---
 
@@ -97,4 +97,4 @@ Feel free to reach out if you want to collaborate on projects or just want to ch
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=manioxx&color=brightgreen)
