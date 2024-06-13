@@ -89,8 +89,8 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/manzil-shrestha-09a696254/)
-- [Twitter](https://x.com/its_me_manzil))
+- [LinkedIn](https://www.linkedin.com/in/manzil-shrestha-09a696254/)
+- [Twitter](https://x.com/its_me_manzil)
 - [Email](mailto:manzilshrestha@proton.me)
 
 Feel free to reach out if you want to collaborate on projects or just want to chat about tech!
