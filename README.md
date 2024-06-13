@@ -33,20 +33,20 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
+
 </p>
 
 ---
 
 ## 🤖 Machine Learning and Robotics
 
-<p align="left">
+
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS" width="40" height="40"/>
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
-  </a>
+
 </p>
 
 ---
@@ -57,9 +57,10 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
   </a>
+ 
   <a href="https://en.wikipedia.org/wiki/Phishing" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/phishing.png" alt="Phishing" width="40" height="40"/>
-  </a>
+
   <a href="https://en.wikipedia.org/wiki/SQL_injection" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Injection" width="40" height="40"/>
   </a>
@@ -75,19 +76,22 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
   <a href="https://en.wikipedia.org/wiki/Software_installation" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/installing-updates.png" alt="Installation" width="40" height="40"/>
   </a>
+  
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=manioxx&show_icons=true&theme=radical)
 
 ---
 
 ## 🔗 Connect with Me
 
-- [ProtonMail](mailto:yourprotonmail@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/manzil-shrestha-09a696254/))
+- [Twitter]([https://twitter.com/yourprofile](https://x.com/its_me_manzil))
+- [Email](mailto:manzilshrestha@proton.me)
 
 Feel free to reach out if you want to collaborate on projects or just want to chat about tech!
 
