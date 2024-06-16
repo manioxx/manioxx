@@ -95,7 +95,9 @@ Welcome to my GitHub profile! I'm passionate about exploring and doing stuffs in
 - [Website](https://memanzil.netlify.app)
 
 Feel free to reach out if you want to collaborate on projects or just want to chat about tech!
+And provide me a idea
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manioxx&color=brightgreen)
+
