@@ -84,7 +84,7 @@ Welcome to my GitHub profile! I'm passionate about exploring and doing stuffs in
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=manioxx&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manioxx&show_icons=true&theme=radical)
 
 ---
 
