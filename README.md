@@ -1,6 +1,7 @@
 
 #   Hi there, I'm MR. MANIOX! 👋
 
+
 Welcome to my GitHub profile! I'm passionate about exploring and doing stuffs involved with technology, programming, and cybersecurity. Here are some of the skills and areas I'm proficient in:
 
 ---
